@@ -7,7 +7,10 @@ Mapathon is map making competition for a specific problem statement. This event,
 The data collected from Indian Space Research Organisation (ISRO) platforms have tremendous potential in mapping India’s resources, agriculture, climate and disaster management, rural and urban planning and in identifying pathways for future development. Such maps can be created using free open source platforms (such as QGIS). Let us join together to create such maps through the Mapathon and end to end innovative solutions through the Hackathon.
 
 ## Topic in which we have worked on
+
 ### Road Network / Drainage Maps
 - We have generated a map for the drainage pipelines and Road Network using (QGIS) open source tool [link](https://github.com/qgis) of Chandigarh City
-- We have generated Different kind of layers Including Base layer and Vector Layer
-- 
+- We have generated Different kind of layers Including Base data layer, Vector data Layer, and Raster Data Layer
+- We have Extracted Data From [Bhuvan-India geo-platform of ISRO](https://bhuvan.nrsc.gov.in/bhuvan_links.php)
+- We have build this map for Chandigarh, India
+
