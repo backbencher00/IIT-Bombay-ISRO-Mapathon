@@ -14,3 +14,4 @@ The data collected from Indian Space Research Organisation (ISRO) platforms have
 - We have Extracted Data From [Bhuvan-India geo-platform of ISRO](https://bhuvan.nrsc.gov.in/bhuvan_links.php)
 - We have build this map for Chandigarh, India
 
+![Screenshot from 2020-12-31 23-53-08](https://user-images.githubusercontent.com/47795037/113393574-7c13c980-93b4-11eb-9372-aae7e26a5f47.png)
