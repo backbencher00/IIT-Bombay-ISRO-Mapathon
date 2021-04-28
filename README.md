@@ -1,4 +1,5 @@
 # IITB-ISRO-AICTE MAPATHON
+https://sourabhsingh282.github.io/IIT-Bombay-ISRO-Mapathon/
 
 ## What is Mapathon
 Mapathon is map making competition for a specific problem statement. This event, organised jointly by IIT Bombay, AICTE and ISRO, will invite all Indians - to produce maps using Indian remote sensing data. The primary objective is to understand the potential of Indian remote sensing data and make maps for Indian regions using free open source mapping software (QGIS). The participants will collectively work in a crowd sourcing method for jointly producing thematic maps of India using Indian remote sensing data.
